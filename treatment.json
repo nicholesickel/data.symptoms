@@ -1,0 +1,77 @@
+[
+ {
+   "sadnessLevel": 1,
+   "treatment": "Diagnosis",
+   "treatmentFrequency": "11%"
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Diagnosis",
+   "treatmentFrequency": "41%"
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Diagnosis",
+   "treatmentFrequency": "56%"
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Diagnosis",
+   "treatmentFrequency": "71%"
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Diagnosis",
+   "treatmentFrequency": "63%"
+ },
+ {
+   "sadnessLevel": 1,
+   "treatment": "Therapy",
+   "treatmentFrequency": "9%"
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Therapy",
+   "treatmentFrequency": "27%"
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Therapy",
+   "treatmentFrequency": "36%"
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Therapy",
+   "treatmentFrequency": "47%"
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Therapy",
+   "treatmentFrequency": "40%"
+ },
+ {
+   "sadnessLevel": 1,
+   "treatment": "Medication",
+   "treatmentFrequency": "6%"
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Medication",
+   "treatmentFrequency": "25%"
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Medication",
+   "treatmentFrequency": "35%"
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Medication",
+   "treatmentFrequency": "45%"
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Medication",
+   "treatmentFrequency": "43%"
+ }
+]
