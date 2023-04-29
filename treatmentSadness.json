@@ -2,76 +2,76 @@
  {
    "sadnessLevel": 1,
    "treatment": "Diagnosis",
-   "likelihoodOfTreatment": 0.110847848
+   "treatmentFrequency": 11.08
  },
  {
    "sadnessLevel": 2,
    "treatment": "Diagnosis",
-   "likelihoodOfTreatment": 0.409218437
+   "treatmentFrequency": 40.92
  },
  {
    "sadnessLevel": 3,
    "treatment": "Diagnosis",
-   "likelihoodOfTreatment": 0.555078684
+   "treatmentFrequency": 55.51
  },
  {
    "sadnessLevel": 4,
    "treatment": "Diagnosis",
-   "likelihoodOfTreatment": 0.710382514
+   "treatmentFrequency": 71.04
  },
  {
    "sadnessLevel": 5,
    "treatment": "Diagnosis",
-   "likelihoodOfTreatment": 0.633333333
+   "treatmentFrequency": 63.33
  },
  {
    "sadnessLevel": 1,
    "treatment": "Therapy",
-   "likelihoodOfTreatment": 0.088563012
+   "treatmentFrequency": 8.86
  },
  {
    "sadnessLevel": 2,
    "treatment": "Therapy",
-   "likelihoodOfTreatment": 0.273346693
+   "treatmentFrequency": 27.33
  },
  {
    "sadnessLevel": 3,
    "treatment": "Therapy",
-   "likelihoodOfTreatment": 0.355507868
+   "treatmentFrequency": 35.55
  },
  {
    "sadnessLevel": 4,
    "treatment": "Therapy",
-   "likelihoodOfTreatment": 0.467213115
+   "treatmentFrequency": 46.72
  },
  {
    "sadnessLevel": 5,
    "treatment": "Therapy",
-   "likelihoodOfTreatment": 0.4
+   "treatmentFrequency": 40
  },
  {
    "sadnessLevel": 1,
    "treatment": "Medication",
-   "likelihoodOfTreatment": 0.062435963
+   "treatmentFrequency": 6.24
  },
  {
    "sadnessLevel": 2,
    "treatment": "Medication",
-   "likelihoodOfTreatment": 0.250901804
+   "treatmentFrequency": 25.09
  },
  {
    "sadnessLevel": 3,
    "treatment": "Medication",
-   "likelihoodOfTreatment": 0.3490701
+   "treatmentFrequency": 34.91
  },
  {
    "sadnessLevel": 4,
    "treatment": "Medication",
-   "likelihoodOfTreatment": 0.453551913
+   "treatmentFrequency": 45.36
  },
  {
    "sadnessLevel": 5,
    "treatment": "Medication",
-   "likelihoodOfTreatment": 0.426666667
+   "treatmentFrequency": 42.67
  }
 ]
