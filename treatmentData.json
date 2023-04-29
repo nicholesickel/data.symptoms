@@ -1,0 +1,902 @@
+[
+ {
+   "sadnessLevel": 1,
+   "treatment": "Therapy - Yes",
+   "depressionFrequency": "Never",
+   "treatmentReceived": 466
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Therapy - Yes",
+   "depressionFrequency": "Never",
+   "treatmentReceived": 45
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Therapy - Yes",
+   "depressionFrequency": "Never",
+   "treatmentReceived": 20
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Therapy - Yes",
+   "depressionFrequency": "Never",
+   "treatmentReceived": 4
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Therapy - Yes",
+   "depressionFrequency": "Never",
+   "treatmentReceived": 5
+ },
+ {
+   "sadnessLevel": 1,
+   "treatment": "Therapy - No",
+   "depressionFrequency": "Never",
+   "treatmentReceived": 13731
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Therapy - No",
+   "depressionFrequency": "Never",
+   "treatmentReceived": 572
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Therapy - No",
+   "depressionFrequency": "Never",
+   "treatmentReceived": 209
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Therapy - No",
+   "depressionFrequency": "Never",
+   "treatmentReceived": 35
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Therapy - No",
+   "depressionFrequency": "Never",
+   "treatmentReceived": 23
+ },
+ {
+   "sadnessLevel": 1,
+   "treatment": "Medication - Yes",
+   "depressionFrequency": "Never",
+   "treatmentReceived": 209
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Medication - Yes",
+   "depressionFrequency": "Never",
+   "treatmentReceived": 22
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Medication - Yes",
+   "depressionFrequency": "Never",
+   "treatmentReceived": 7
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Medication - Yes",
+   "depressionFrequency": "Never",
+   "treatmentReceived": 2
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Medication - Yes",
+   "depressionFrequency": "Never",
+   "treatmentReceived": 2
+ },
+ {
+   "sadnessLevel": 1,
+   "treatment": "Medication - No",
+   "depressionFrequency": "Never",
+   "treatmentReceived": 13986
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Medication - No",
+   "depressionFrequency": "Never",
+   "treatmentReceived": 594
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Medication - No",
+   "depressionFrequency": "Never",
+   "treatmentReceived": 222
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Medication - No",
+   "depressionFrequency": "Never",
+   "treatmentReceived": 37
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Medication - No",
+   "depressionFrequency": "Never",
+   "treatmentReceived": 25
+ },
+ {
+   "sadnessLevel": 1,
+   "treatment": "Diagnosis - Yes",
+   "depressionFrequency": "Never",
+   "treatmentReceived": 384
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Diagnosis - Yes",
+   "depressionFrequency": "Never",
+   "treatmentReceived": 41
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Diagnosis - Yes",
+   "depressionFrequency": "Never",
+   "treatmentReceived": 24
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Diagnosis - Yes",
+   "depressionFrequency": "Never",
+   "treatmentReceived": 3
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Diagnosis - Yes",
+   "depressionFrequency": "Never",
+   "treatmentReceived": 3
+ },
+ {
+   "sadnessLevel": 1,
+   "treatment": "Diagnosis - No",
+   "depressionFrequency": "Never",
+   "treatmentReceived": 13807
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Diagnosis - No",
+   "depressionFrequency": "Never",
+   "treatmentReceived": 576
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Diagnosis - No",
+   "depressionFrequency": "Never",
+   "treatmentReceived": 205
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Diagnosis - No",
+   "depressionFrequency": "Never",
+   "treatmentReceived": 36
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Diagnosis - No",
+   "depressionFrequency": "Never",
+   "treatmentReceived": 25
+ },
+ {
+   "sadnessLevel": 1,
+   "treatment": "Therapy - Yes",
+   "depressionFrequency": "Daily",
+   "treatmentReceived": 37
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Therapy - Yes",
+   "depressionFrequency": "Daily",
+   "treatmentReceived": 83
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Therapy - Yes",
+   "depressionFrequency": "Daily",
+   "treatmentReceived": 177
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Therapy - Yes",
+   "depressionFrequency": "Daily",
+   "treatmentReceived": 126
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Therapy - Yes",
+   "depressionFrequency": "Daily",
+   "treatmentReceived": 48
+ },
+ {
+   "sadnessLevel": 1,
+   "treatment": "Therapy - No",
+   "depressionFrequency": "Daily",
+   "treatmentReceived": 133
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Therapy - No",
+   "depressionFrequency": "Daily",
+   "treatmentReceived": 151
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Therapy - No",
+   "depressionFrequency": "Daily",
+   "treatmentReceived": 233
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Therapy - No",
+   "depressionFrequency": "Daily",
+   "treatmentReceived": 122
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Therapy - No",
+   "depressionFrequency": "Daily",
+   "treatmentReceived": 61
+ },
+ {
+   "sadnessLevel": 1,
+   "treatment": "Medication - Yes",
+   "depressionFrequency": "Daily",
+   "treatmentReceived": 74
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Medication - Yes",
+   "depressionFrequency": "Daily",
+   "treatmentReceived": 128
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Medication - Yes",
+   "depressionFrequency": "Daily",
+   "treatmentReceived": 242
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Medication - Yes",
+   "depressionFrequency": "Daily",
+   "treatmentReceived": 139
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Medication - Yes",
+   "depressionFrequency": "Daily",
+   "treatmentReceived": 62
+ },
+ {
+   "sadnessLevel": 1,
+   "treatment": "Medication - No",
+   "depressionFrequency": "Daily",
+   "treatmentReceived": 97
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Medication - No",
+   "depressionFrequency": "Daily",
+   "treatmentReceived": 106
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Medication - No",
+   "depressionFrequency": "Daily",
+   "treatmentReceived": 167
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Medication - No",
+   "depressionFrequency": "Daily",
+   "treatmentReceived": 107
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Medication - No",
+   "depressionFrequency": "Daily",
+   "treatmentReceived": 47
+ },
+ {
+   "sadnessLevel": 1,
+   "treatment": "Diagnosis - Yes",
+   "depressionFrequency": "Daily",
+   "treatmentReceived": 103
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Diagnosis - Yes",
+   "depressionFrequency": "Daily",
+   "treatmentReceived": 185
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Diagnosis - Yes",
+   "depressionFrequency": "Daily",
+   "treatmentReceived": 337
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Diagnosis - Yes",
+   "depressionFrequency": "Daily",
+   "treatmentReceived": 204
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Diagnosis - Yes",
+   "depressionFrequency": "Daily",
+   "treatmentReceived": 91
+ },
+ {
+   "sadnessLevel": 1,
+   "treatment": "Diagnosis - No",
+   "depressionFrequency": "Daily",
+   "treatmentReceived": 67
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Diagnosis - No",
+   "depressionFrequency": "Daily",
+   "treatmentReceived": 49
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Diagnosis - No",
+   "depressionFrequency": "Daily",
+   "treatmentReceived": 71
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Diagnosis - No",
+   "depressionFrequency": "Daily",
+   "treatmentReceived": 41
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Diagnosis - No",
+   "depressionFrequency": "Daily",
+   "treatmentReceived": 17
+ },
+ {
+   "sadnessLevel": 1,
+   "treatment": "Therapy - Yes",
+   "depressionFrequency": "Weekly",
+   "treatmentReceived": 118
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Therapy - Yes",
+   "depressionFrequency": "Weekly",
+   "treatmentReceived": 227
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Therapy - Yes",
+   "depressionFrequency": "Weekly",
+   "treatmentReceived": 218
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Therapy - Yes",
+   "depressionFrequency": "Weekly",
+   "treatmentReceived": 50
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Therapy - Yes",
+   "depressionFrequency": "Weekly",
+   "treatmentReceived": 4
+ },
+ {
+   "sadnessLevel": 1,
+   "treatment": "Therapy - No",
+   "depressionFrequency": "Weekly",
+   "treatmentReceived": 356
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Therapy - No",
+   "depressionFrequency": "Weekly",
+   "treatmentReceived": 382
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Therapy - No",
+   "depressionFrequency": "Weekly",
+   "treatmentReceived": 324
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Therapy - No",
+   "depressionFrequency": "Weekly",
+   "treatmentReceived": 75
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Therapy - No",
+   "depressionFrequency": "Weekly",
+   "treatmentReceived": 20
+ },
+ {
+   "sadnessLevel": 1,
+   "treatment": "Medication - Yes",
+   "depressionFrequency": "Weekly",
+   "treatmentReceived": 173
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Medication - Yes",
+   "depressionFrequency": "Weekly",
+   "treatmentReceived": 269
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Medication - Yes",
+   "depressionFrequency": "Weekly",
+   "treatmentReceived": 244
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Medication - Yes",
+   "depressionFrequency": "Weekly",
+   "treatmentReceived": 51
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Medication - Yes",
+   "depressionFrequency": "Weekly",
+   "treatmentReceived": 9
+ },
+ {
+   "sadnessLevel": 1,
+   "treatment": "Medication - No",
+   "depressionFrequency": "Weekly",
+   "treatmentReceived": 301
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Medication - No",
+   "depressionFrequency": "Weekly",
+   "treatmentReceived": 340
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Medication - No",
+   "depressionFrequency": "Weekly",
+   "treatmentReceived": 296
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Medication - No",
+   "depressionFrequency": "Weekly",
+   "treatmentReceived": 74
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Medication - No",
+   "depressionFrequency": "Weekly",
+   "treatmentReceived": 14
+ },
+ {
+   "sadnessLevel": 1,
+   "treatment": "Diagnosis - Yes",
+   "depressionFrequency": "Weekly",
+   "treatmentReceived": 264
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Diagnosis - Yes",
+   "depressionFrequency": "Weekly",
+   "treatmentReceived": 414
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Diagnosis - Yes",
+   "depressionFrequency": "Weekly",
+   "treatmentReceived": 384
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Diagnosis - Yes",
+   "depressionFrequency": "Weekly",
+   "treatmentReceived": 89
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Diagnosis - Yes",
+   "depressionFrequency": "Weekly",
+   "treatmentReceived": 16
+ },
+ {
+   "sadnessLevel": 1,
+   "treatment": "Diagnosis - No",
+   "depressionFrequency": "Weekly",
+   "treatmentReceived": 211
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Diagnosis - No",
+   "depressionFrequency": "Weekly",
+   "treatmentReceived": 193
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Diagnosis - No",
+   "depressionFrequency": "Weekly",
+   "treatmentReceived": 156
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Diagnosis - No",
+   "depressionFrequency": "Weekly",
+   "treatmentReceived": 36
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Diagnosis - No",
+   "depressionFrequency": "Weekly",
+   "treatmentReceived": 8
+ },
+ {
+   "sadnessLevel": 1,
+   "treatment": "Therapy - Yes",
+   "depressionFrequency": "Monthly",
+   "treatmentReceived": 279
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Therapy - Yes",
+   "depressionFrequency": "Monthly",
+   "treatmentReceived": 215
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Therapy - Yes",
+   "depressionFrequency": "Monthly",
+   "treatmentReceived": 104
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Therapy - Yes",
+   "depressionFrequency": "Monthly",
+   "treatmentReceived": 11
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Therapy - Yes",
+   "depressionFrequency": "Monthly",
+   "treatmentReceived": 2
+ },
+ {
+   "sadnessLevel": 1,
+   "treatment": "Therapy - No",
+   "depressionFrequency": "Monthly",
+   "treatmentReceived": 875
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Therapy - No",
+   "depressionFrequency": "Monthly",
+   "treatmentReceived": 468
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Therapy - No",
+   "depressionFrequency": "Monthly",
+   "treatmentReceived": 227
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Therapy - No",
+   "depressionFrequency": "Monthly",
+   "treatmentReceived": 21
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Therapy - No",
+   "depressionFrequency": "Monthly",
+   "treatmentReceived": 13
+ },
+ {
+   "sadnessLevel": 1,
+   "treatment": "Medication - Yes",
+   "depressionFrequency": "Monthly",
+   "treatmentReceived": 350
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Medication - Yes",
+   "depressionFrequency": "Monthly",
+   "treatmentReceived": 243
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Medication - Yes",
+   "depressionFrequency": "Monthly",
+   "treatmentReceived": 90
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Medication - Yes",
+   "depressionFrequency": "Monthly",
+   "treatmentReceived": 12
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Medication - Yes",
+   "depressionFrequency": "Monthly",
+   "treatmentReceived": 4
+ },
+ {
+   "sadnessLevel": 1,
+   "treatment": "Medication - No",
+   "depressionFrequency": "Monthly",
+   "treatmentReceived": 803
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Medication - No",
+   "depressionFrequency": "Monthly",
+   "treatmentReceived": 439
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Medication - No",
+   "depressionFrequency": "Monthly",
+   "treatmentReceived": 241
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Medication - No",
+   "depressionFrequency": "Monthly",
+   "treatmentReceived": 20
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Medication - No",
+   "depressionFrequency": "Monthly",
+   "treatmentReceived": 11
+ },
+ {
+   "sadnessLevel": 1,
+   "treatment": "Diagnosis - Yes",
+   "depressionFrequency": "Monthly",
+   "treatmentReceived": 524
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Diagnosis - Yes",
+   "depressionFrequency": "Monthly",
+   "treatmentReceived": 372
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Diagnosis - Yes",
+   "depressionFrequency": "Monthly",
+   "treatmentReceived": 163
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Diagnosis - Yes",
+   "depressionFrequency": "Monthly",
+   "treatmentReceived": 19
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Diagnosis - Yes",
+   "depressionFrequency": "Monthly",
+   "treatmentReceived": 11
+ },
+ {
+   "sadnessLevel": 1,
+   "treatment": "Diagnosis - No",
+   "depressionFrequency": "Monthly",
+   "treatmentReceived": 629
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Diagnosis - No",
+   "depressionFrequency": "Monthly",
+   "treatmentReceived": 311
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Diagnosis - No",
+   "depressionFrequency": "Monthly",
+   "treatmentReceived": 168
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Diagnosis - No",
+   "depressionFrequency": "Monthly",
+   "treatmentReceived": 13
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Diagnosis - No",
+   "depressionFrequency": "Monthly",
+   "treatmentReceived": 4
+ },
+ {
+   "sadnessLevel": 1,
+   "treatment": "Therapy - Yes",
+   "depressionFrequency": "A few times a year",
+   "treatmentReceived": 703
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Therapy - Yes",
+   "depressionFrequency": "A few times a year",
+   "treatmentReceived": 221
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Therapy - Yes",
+   "depressionFrequency": "A few times a year",
+   "treatmentReceived": 68
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Therapy - Yes",
+   "depressionFrequency": "A few times a year",
+   "treatmentReceived": 9
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Therapy - Yes",
+   "depressionFrequency": "A few times a year",
+   "treatmentReceived": 9
+ },
+ {
+   "sadnessLevel": 1,
+   "treatment": "Therapy - No",
+   "depressionFrequency": "A few times a year",
+   "treatmentReceived": 5837
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Therapy - No",
+   "depressionFrequency": "A few times a year",
+   "treatmentReceived": 1125
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Therapy - No",
+   "depressionFrequency": "A few times a year",
+   "treatmentReceived": 333
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Therapy - No",
+   "depressionFrequency": "A few times a year",
+   "treatmentReceived": 41
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Therapy - No",
+   "depressionFrequency": "A few times a year",
+   "treatmentReceived": 29
+ },
+ {
+   "sadnessLevel": 1,
+   "treatment": "Medication - Yes",
+   "depressionFrequency": "A few times a year",
+   "treatmentReceived": 667
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Medication - Yes",
+   "depressionFrequency": "A few times a year",
+   "treatmentReceived": 196
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Medication - Yes",
+   "depressionFrequency": "A few times a year",
+   "treatmentReceived": 60
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Medication - Yes",
+   "depressionFrequency": "A few times a year",
+   "treatmentReceived": 9
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Medication - Yes",
+   "depressionFrequency": "A few times a year",
+   "treatmentReceived": 6
+ },
+ {
+   "sadnessLevel": 1,
+   "treatment": "Medication - No",
+   "depressionFrequency": "A few times a year",
+   "treatmentReceived": 5869
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Medication - No",
+   "depressionFrequency": "A few times a year",
+   "treatmentReceived": 1150
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Medication - No",
+   "depressionFrequency": "A few times a year",
+   "treatmentReceived": 340
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Medication - No",
+   "depressionFrequency": "A few times a year",
+   "treatmentReceived": 42
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Medication - No",
+   "depressionFrequency": "A few times a year",
+   "treatmentReceived": 32
+ },
+ {
+   "sadnessLevel": 1,
+   "treatment": "Diagnosis - Yes",
+   "depressionFrequency": "A few times a year",
+   "treatmentReceived": 1133
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Diagnosis - Yes",
+   "depressionFrequency": "A few times a year",
+   "treatmentReceived": 332
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Diagnosis - Yes",
+   "depressionFrequency": "A few times a year",
+   "treatmentReceived": 116
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Diagnosis - Yes",
+   "depressionFrequency": "A few times a year",
+   "treatmentReceived": 14
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Diagnosis - Yes",
+   "depressionFrequency": "A few times a year",
+   "treatmentReceived": 8
+ },
+ {
+   "sadnessLevel": 1,
+   "treatment": "Diagnosis - No",
+   "depressionFrequency": "A few times a year",
+   "treatmentReceived": 5401
+ },
+ {
+   "sadnessLevel": 2,
+   "treatment": "Diagnosis - No",
+   "depressionFrequency": "A few times a year",
+   "treatmentReceived": 1012
+ },
+ {
+   "sadnessLevel": 3,
+   "treatment": "Diagnosis - No",
+   "depressionFrequency": "A few times a year",
+   "treatmentReceived": 285
+ },
+ {
+   "sadnessLevel": 4,
+   "treatment": "Diagnosis - No",
+   "depressionFrequency": "A few times a year",
+   "treatmentReceived": 37
+ },
+ {
+   "sadnessLevel": 5,
+   "treatment": "Diagnosis - No",
+   "depressionFrequency": "A few times a year",
+   "treatmentReceived": 30
+ }
+]
